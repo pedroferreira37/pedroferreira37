@@ -4,7 +4,7 @@
 
 I'm a junior front-end developer that currently work in @Makrosystem about a year with the following tools: 
 
-Backend: C#/SQL\n | FrontEnd: .NET/CSS/JS
+Backend: C#/SQL | FrontEnd: .NET/CSS/JS
 
 I love programming and passionate about it, started programming for a need of a ecommerce for a friend, build it in one month, and feel in love with programming. After that, I started studiyng, got in CEFET for a Course of 2 year, learn more, and landed my first job that I'm currently in, and I hope to get in college next year.
 
