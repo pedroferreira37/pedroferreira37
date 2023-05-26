@@ -9,6 +9,7 @@ I'm a junior front-end engineer with experience in JavaScript, TypeScript, React
 - Tailwind
 - Node.js
 - SQL
+- MySQL
 - C
 - C#
 
