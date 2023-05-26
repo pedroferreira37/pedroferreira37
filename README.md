@@ -1,6 +1,7 @@
 ## Hi there 👋, char[] mynameis("Pedro")
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pedro-ferreira-993873214/)
+
 I'm a junior front-end developer that currently work in @Makrosystem about a year with the following tools: 
 
 Backend: C#/SQL
