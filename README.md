@@ -9,6 +9,8 @@ I'm a junior front-end engineer with experience in JavaScript, TypeScript, React
 - Tailwind
 - Node.js
 - SQL
+- C
+- C#
 
 ### English Proficiency
 Mid-level
@@ -30,3 +32,6 @@ Mid-level
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://github.com/pedroferreira37)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)](https://github.com/pedroferreira37)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://github.com/pedroferreira37)
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/pedroferreira37)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/pedroferreira37)
+
