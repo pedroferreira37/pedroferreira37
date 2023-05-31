@@ -18,7 +18,7 @@ I love programming and passionate about it, started programming for a need of a 
 - Email: pedrohsferreira1@gmail.com
 - Linkedin: https://www.linkedin.com/in/pedro-ferreira-993873214/
 
-### Badges
+Skills 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/pedroferreira37)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](https://github.com/pedroferreira37)
 [![React]([https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/yourusername](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black))
@@ -27,6 +27,5 @@ I love programming and passionate about it, started programming for a need of a 
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://github.com/pedroferreira37)
 [![C#](https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white)](https://github.com/pedroferreira37)
 [![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)](https://github.com/pedroferreira37)
-[![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://github.com/pedroferreira37)
 
 
