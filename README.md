@@ -8,22 +8,6 @@ Backend: C#/SQL | FrontEnd: .NET/CSS/JS
 
 I love programming and passionate about it, started programming for a need of a ecommerce for a friend, build it in one month, and feel in love with programming. After that, I started studiyng, got in CEFET for a Course of 2 year, learn more, and landed my first job that I'm currently in, and I hope to get in college next year.
 
-
-### Hard Skills
-- JavaScript
-- TypeScript
-- React
-- Tailwind
-- Node.js
-- SQL
-- MySQL
-- C
-- C#
-- Docker
-
-### English Proficiency
-Mid-level
-
 ### GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroferreira37&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -41,7 +25,7 @@ Mid-level
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)](https://github.com/pedroferreira37)
 [![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/pedroferreira37)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://github.com/pedroferreira37)
-[![C#][(https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white)](https://github.com/pedroferreira37)
+[![C#](https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white)](https://github.com/pedroferreira37)
 [![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)](https://github.com/pedroferreira37)
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://github.com/pedroferreira37)
 
