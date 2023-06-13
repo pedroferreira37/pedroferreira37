@@ -19,11 +19,9 @@ Passionate about Front End, but really like challenges, knowing the depths of pr
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/pedroferreira37)
 
 
-```<div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroferreira37&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroferreira37&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroferreira37&layout=compact)
-</div>
-```
+
 
 
 
