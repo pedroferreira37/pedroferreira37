@@ -20,7 +20,7 @@ Passionate about Front End, but really like challenges, knowing the depths of pr
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroferreira&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroferreira&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroferreira37&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroferreira37&layout=compact)
 
 
 
