@@ -16,8 +16,6 @@ I am a developer, I'm 21, and I'm very passionate about programming. As for my t
 [![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/pedroferreira37)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroferreira37&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroferreira37&layout=compact)
 
 
 
