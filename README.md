@@ -8,7 +8,7 @@ Hi, I'm Pedro Ferreira
  - I've been coding with Javascript for almost 4 years 2 of those professionally together with C#/.NET
  - I'm currently exploring the world outside web browser, with languages like C/C++, Lua, and Go.
 
- - 
+
 ## Skills 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/pedroferreira37)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](https://github.com/pedroferreira37)
