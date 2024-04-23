@@ -5,8 +5,8 @@
 
 Hi, I'm Pedro Ferreira
 
- - I've been coding with Javascript for almost 4 years 2 of those professionally together with C#/.NET
- - I'm currently exploring the world outside web browser, with languages like C/C++, Lua, and Go.
+ - I've been coding with Javascript for 2 of those professionally together with C#/.NET
+ - I'm currently exploring inner and outer world of the web.
 
 
 ## Skills 
