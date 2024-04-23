@@ -14,7 +14,7 @@ Trabalhei 2 anos na [Makrosystem](https://makrosystem.com.br/makro-system/?gad_s
 
 #### Projetos
 
-- Video Player Em Svelte: [Video Player]([https://github.com/pedroferreira37/video-player](https://video-player-rouge-eight.vercel.app/))
+- Video Player Em Svelte: [Video Player](https://video-player-rouge-eight.vercel.app/)
 - Mini Fil Watcher: [File Watcher](https://github.com/pedroferreira37/simple-file-watcher/blob/master/index.js)
 - Interpretado em Go: [Go Interpreter](https://github.com/pedroferreira37/go-interpreter)
 
