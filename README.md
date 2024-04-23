@@ -2,7 +2,7 @@
 
 Eu sou: 
 
- - Desenvolvedor Front End
+ - Desenvolvedor de Software
  - Apaixonado por programação e pela web
 
 Trabalhei 2 anos na [Makrosystem](https://makrosystem.com.br/makro-system/?gad_source=1&gclid=CjwKCAjwuJ2xBhA3EiwAMVjkVP07RQGbbYxNq0xkbMrqpZmGDKx7lbSwHtiHNSppmm-l7aAGC9Wq-BoCykoQAvD_BwE)
